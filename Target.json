@@ -1,0 +1,13 @@
+{  
+    "example": {  
+        "gender":"male",   
+        "age":14,
+        "weight":61
+        
+    }  
+    "example2": {
+        "gender":"female",
+        "age":41,
+        "weight":16
+}
+}  
