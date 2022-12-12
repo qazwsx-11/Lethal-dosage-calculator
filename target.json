@@ -1,4 +1,4 @@
-targets = {  
+target = {  
     "example": {  
         "gender":"male",   
         "age":14,
